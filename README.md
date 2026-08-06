@@ -35,7 +35,7 @@ The purpose of this repository is to build a strong programming foundation befor
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-basics.git
+git clone https://github.com/Hlulane-code/python-basics.git
 ```
 
 Run any Python file:
